@@ -1,0 +1,33 @@
+\textblockorigin{0cm}{0cm}
+\begin{textblock*}{20cm}(3cm, 3cm)
+\thispagestyle{empty}
+\begin{tikzpicture}
+\filldraw[fill=green!10](0.00,-7.46) --(2.00,-3.46) --(-2.00,-3.46) --cycle;
+\filldraw[fill=green!10](6.46,-3.73) --(4.00,-0.00) --(2.00,-3.46) --cycle;
+\filldraw[fill=green!10](6.46,3.73) --(2.00,3.46) --(4.00,-0.00) --cycle;
+\filldraw[fill=green!10](0.00,7.46) --(-2.00,3.46) --(2.00,3.46) --cycle;
+\filldraw[fill=green!10](-6.46,3.73) --(-4.00,0.00) --(-2.00,3.46) --cycle;
+\filldraw[fill=green!10](-6.46,-3.73) --(-2.00,-3.46) --(-4.00,0.00) --cycle;
+\filldraw[fill=green!10](2.00,-3.46) --(4.00,-0.00) --(2.00,3.46) --(-2.00,3.46) --(-4.00,0.00) --(-2.00,-3.46) --cycle;
+\draw(0.00,-7.46) --(3.00,-5.20) --(2.00,-3.46) --cycle;
+\draw(6.46,-3.73) --(6.00,-0.00) --(4.00,-0.00) --cycle;
+\draw(6.46,3.73) --(3.00,5.20) --(2.00,3.46) --cycle;
+\draw(0.00,7.46) --(-3.00,5.20) --(-2.00,3.46) --cycle;
+\draw(-6.46,3.73) --(-6.00,0.00) --(-4.00,0.00) --cycle;
+\draw(-6.46,-3.73) --(-3.00,-5.20) --(-2.00,-3.46) --cycle;
+\putpicture{0.00}{-3.80}{-180.00}{/Users/lxb/Documents/yyc/pictures/spring/1.jpg}
+\putpicture{3.29}{-1.90}{-120.00}{/Users/lxb/Documents/yyc/pictures/spring/2.jpg}
+\putpicture{3.29}{1.90}{-60.00}{/Users/lxb/Documents/yyc/pictures/spring/3.jpg}
+\putpicture{0.00}{3.80}{-0.00}{/Users/lxb/Documents/yyc/pictures/spring/4.jpg}
+\putpicture{-3.29}{1.90}{60.00}{/Users/lxb/Documents/yyc/pictures/spring/5.jpg}
+\putpicture{-3.29}{-1.90}{120.00}{/Users/lxb/Documents/yyc/pictures/spring/6.jpg}
+\putcontent{0.00}{-5.80}{-180.00}{Hello Spring
+ Welcom}
+\putcontent{5.02}{-2.90}{-120.00}{It is beautiful}
+\putcontent{5.02}{2.90}{-60.00}{Flower is in blossom}
+\putcontent{0.00}{5.80}{-0.00}{Bird is sing}
+\putcontent{-5.02}{2.90}{60.00}{Grass turns green}
+\putcontent{-5.02}{-2.90}{120.00}{Sun is warm}
+\end{tikzpicture}
+\end{textblock*}
+\null\newpage

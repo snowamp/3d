@@ -1,0 +1,4 @@
+"""
+rectangle truncate hedron
+
+"""
