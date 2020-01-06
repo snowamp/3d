@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-06T19:18:12.812Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="lDfnVLHr6Vtm4t6z3Ebs" version="12.4.9" type="github">
+<mxfile host="www.draw.io" modified="2020-01-06T19:23:30.095Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="owz2w9utYneOYhaVHv1d" version="12.4.9" type="github">
   <diagram id="6EOu7zodaTBPCCAT2fPV" name="Page-1">
     <mxGraphModel dx="1357" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -80,6 +80,15 @@
         <mxCell id="TKaIvNfmHYvjtze1hrss-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TKaIvNfmHYvjtze1hrss-18" target="TKaIvNfmHYvjtze1hrss-29">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
+        <mxCell id="TKaIvNfmHYvjtze1hrss-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="TKaIvNfmHYvjtze1hrss-18" target="TKaIvNfmHYvjtze1hrss-31">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="TKaIvNfmHYvjtze1hrss-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TKaIvNfmHYvjtze1hrss-18" target="TKaIvNfmHYvjtze1hrss-33">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="TKaIvNfmHYvjtze1hrss-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TKaIvNfmHYvjtze1hrss-18" target="TKaIvNfmHYvjtze1hrss-35">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="TKaIvNfmHYvjtze1hrss-18" value="CI metrics &amp;amp; insight" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="370" width="150" height="80" as="geometry"/>
         </mxCell>
@@ -100,6 +109,48 @@
         </mxCell>
         <mxCell id="TKaIvNfmHYvjtze1hrss-29" value="Align CRT wth CI dashboard PCX metrics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="830" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="TKaIvNfmHYvjtze1hrss-31" value="Automated anomaly detection" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="940" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="TKaIvNfmHYvjtze1hrss-33" value="Metrics Validation Capability" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1030" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="TKaIvNfmHYvjtze1hrss-35" value="PRovide clear signal to developers from long running test failures in CRT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1130" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="TKaIvNfmHYvjtze1hrss-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TKaIvNfmHYvjtze1hrss-37" target="TKaIvNfmHYvjtze1hrss-38">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="TKaIvNfmHYvjtze1hrss-37" value="Deployment" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="890" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="TKaIvNfmHYvjtze1hrss-38" value="Deployment metrics pipeline uplift" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="900" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="TKaIvNfmHYvjtze1hrss-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TKaIvNfmHYvjtze1hrss-40" target="TKaIvNfmHYvjtze1hrss-41">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="TKaIvNfmHYvjtze1hrss-40" value="Collaboration Metrics &amp;amp; Insight" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1140" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="TKaIvNfmHYvjtze1hrss-41" value="Github metrics Pipeline Buildout" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1150" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="TKaIvNfmHYvjtze1hrss-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="TKaIvNfmHYvjtze1hrss-43" target="TKaIvNfmHYvjtze1hrss-44">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="TKaIvNfmHYvjtze1hrss-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TKaIvNfmHYvjtze1hrss-43" target="TKaIvNfmHYvjtze1hrss-46">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="TKaIvNfmHYvjtze1hrss-43" value="Partners Insight" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1320" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="TKaIvNfmHYvjtze1hrss-44" value="Similarity and Performance metrics and insights for SeaS, investigate broader ML use" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1300" width="220" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="TKaIvNfmHYvjtze1hrss-46" value="Integration Test for 5 Use cases Developed and committed for LSS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1420" width="240" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
