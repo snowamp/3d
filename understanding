@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-06T19:23:30.095Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="owz2w9utYneOYhaVHv1d" version="12.4.9" type="github">
+<mxfile host="www.draw.io" modified="2020-01-06T23:30:11.332Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="c_LZffDu9UwhbfSx6DDR" version="12.4.9" type="github">
   <diagram id="6EOu7zodaTBPCCAT2fPV" name="Page-1">
     <mxGraphModel dx="1357" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -151,6 +151,35 @@
         </mxCell>
         <mxCell id="TKaIvNfmHYvjtze1hrss-46" value="Integration Test for 5 Use cases Developed and committed for LSS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="1420" width="240" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="TKaIvNfmHYvjtze1hrss-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TKaIvNfmHYvjtze1hrss-48" target="TKaIvNfmHYvjtze1hrss-52">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="TKaIvNfmHYvjtze1hrss-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="TKaIvNfmHYvjtze1hrss-48" target="TKaIvNfmHYvjtze1hrss-49">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="TKaIvNfmHYvjtze1hrss-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TKaIvNfmHYvjtze1hrss-48" target="TKaIvNfmHYvjtze1hrss-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="1890" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TKaIvNfmHYvjtze1hrss-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TKaIvNfmHYvjtze1hrss-48" target="TKaIvNfmHYvjtze1hrss-50">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="TKaIvNfmHYvjtze1hrss-48" value="core platform" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1730" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="TKaIvNfmHYvjtze1hrss-49" value="Orchestration services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1630" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="TKaIvNfmHYvjtze1hrss-50" value="Monitoring and alerting framework" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1880" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="TKaIvNfmHYvjtze1hrss-51" value="Offline &amp;amp; online data/metrics management &amp;amp; processing infrastructure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1890" width="220" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="TKaIvNfmHYvjtze1hrss-52" value="Insights extraction" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1640" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
