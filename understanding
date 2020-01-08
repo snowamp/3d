@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-01-06T23:30:11.332Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="c_LZffDu9UwhbfSx6DDR" version="12.4.9" type="github">
+<mxfile host="www.draw.io" modified="2020-01-08T23:55:16.404Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="2NQSKkv75bT4vCVPnrLD" version="12.4.9" type="github">
   <diagram id="6EOu7zodaTBPCCAT2fPV" name="Page-1">
-    <mxGraphModel dx="1357" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1357" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -32,19 +32,19 @@
           <mxGeometry x="140" y="340" width="120" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="TKaIvNfmHYvjtze1hrss-5" value="Analysis of the current state of metrics &amp;amp; analytics" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="290" width="120" height="60" as="geometry"/>
+          <mxGeometry x="340" y="220" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="TKaIvNfmHYvjtze1hrss-7" value="Consolidating, improvement of existing and implementation of new data pipeline" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="390" width="200" height="60" as="geometry"/>
+          <mxGeometry x="325" y="350" width="200" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="TKaIvNfmHYvjtze1hrss-9" value="Product to org mapping system" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="490" width="120" height="60" as="geometry"/>
+          <mxGeometry x="320" y="550" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="TKaIvNfmHYvjtze1hrss-11" value="automated insights extraction &amp;amp; prediction" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="590" width="120" height="60" as="geometry"/>
+          <mxGeometry x="320" y="640" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="TKaIvNfmHYvjtze1hrss-13" value="Insight presentation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="680" width="120" height="60" as="geometry"/>
+          <mxGeometry x="40" y="620" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="TKaIvNfmHYvjtze1hrss-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="TKaIvNfmHYvjtze1hrss-14" target="TKaIvNfmHYvjtze1hrss-15">
           <mxGeometry relative="1" as="geometry"/>
